@@ -1,0 +1,17 @@
+{
+  "name": "cli-calculator",
+  "version": "0.0.1",
+  "description": "A simple command line interface calculator built using TypeScript",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "cli",
+    "calculator",
+    "nodejs"
+  ],
+  "author": "Marothi Mahlake",
+  "license": "MIT"
+}
