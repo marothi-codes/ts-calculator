@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A simple command line interface calculator built using TypeScript",
   "main": "app.ts",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +14,9 @@
     "nodejs"
   ],
   "author": "Marothi Mahlake",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/readline-sync": "^1.4.4",
+    "readline-sync": "^1.4.10"
+  }
 }
