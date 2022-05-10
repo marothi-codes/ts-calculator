@@ -1,10 +1,11 @@
 {
   "name": "cli-calculator",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A simple command line interface calculator built using TypeScript",
   "main": "app.ts",
   "private": false,
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
